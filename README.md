@@ -6,6 +6,6 @@ Comment Board
 
 This is a bulletin board where anyone can write freely.
 
-#Note
+# Note
 
 Please use good manners when posting.
