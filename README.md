@@ -2,10 +2,19 @@
 
 ひとこと掲示板
 
-# Usage
+# 開発環境
 
-This is a bulletin board where anyone can write freely.
+・Python3
+・MySQL
+・Apache2
 
-# Note
+# 機能
 
-Please use good manners when posting.
+だれでも自由に書き込みができる掲示板です。
+
+# 注意点
+
+・CGIとして動かしています。
+
+
+
