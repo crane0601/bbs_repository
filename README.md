@@ -1,6 +1,6 @@
-# Name
+# 名前
 
-Comment Board
+ひとこと掲示板
 
 # Usage
 
